@@ -2,7 +2,7 @@
 
 Welcome to the **AI-Enhanced Sign Language & Chemistry Learning App**! This innovative application 💡 is your go-to solution for bridging communication gaps through technology and enhancing your chemistry learning experience. Developed using TensorFlow, Keras, Jupyter Notebook, and Selenium, our app offers a unique blend of sign language interpretation 🤟 and comprehensive chemistry education 🧪.
 
-**Current Status Update (As of February 26, 2024):** We're thrilled to announce that our app has achieved 2nd place 🏆 in the 9th edition of the 'High School Science Project' national competition held in May 2021. We're continuously working to improve and update the app, ensuring it provides the most accurate and effective learning experience.
+https://www.youtube.com/watch?v=gvSoxn5krbE&ab_channel=MogovanJonathan
 
 ## 🌟 Features
 
