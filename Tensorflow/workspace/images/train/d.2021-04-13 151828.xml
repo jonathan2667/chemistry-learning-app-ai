@@ -1,0 +1,26 @@
+<annotation>
+	<folder>d</folder>
+	<filename>d.2021-04-13 151828.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\d\d.2021-04-13 151828.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>d</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>293</ymin>
+			<xmax>329</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>
